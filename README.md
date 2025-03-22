@@ -8,9 +8,14 @@
 
 작업 툴 : java, javascript, Oracle SQL, Spring framework, apche-tomcat
 
+# ERD 다이어그램
+![Image](https://github.com/user-attachments/assets/7908722d-c88b-4d05-a44c-0760e5801dae)
+
 # 구현된 기능
 
 1. 회원, 관리자 로그인 및 회원가입, 탈퇴 기능
+
+![Image](https://github.com/user-attachments/assets/ac4e985f-4b39-40e7-a042-64ed8f610739)
 
 2. 음원 검색 후 가수, 앨범, 노래 검색결과 표시 / 검색에 따른 인기검색어 표시
 
