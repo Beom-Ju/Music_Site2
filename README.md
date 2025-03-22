@@ -6,7 +6,7 @@
 
 작업 기간 : 2020.11.18 ~ 2020.12.11
 
-작업 툴 : java, javascript, Oracle SQL, Spring framework, apche-tomcat
+작업 툴 : java, javascript, Oracle SQL, Spring framework, apache-tomcat
 
 # ERD 다이어그램
 ![Image](https://github.com/user-attachments/assets/7908722d-c88b-4d05-a44c-0760e5801dae)
