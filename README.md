@@ -1,12 +1,14 @@
 ### 음원사이트 포트폴리오
 
+#개요
+
 작업 인원 : 1명
 
 작업 기간 : 2020.11.18 ~ 2020.12.11
 
 작업 툴 : java, javascript, Oracle SQL, Spring framework, apche-tomcat
 
-구현된 기능
+#구현된 기능
 
 1. 회원, 관리자 로그인 및 회원가입, 탈퇴 기능
 
