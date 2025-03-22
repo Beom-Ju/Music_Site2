@@ -25,4 +25,6 @@
 
 4. 앨범 평점 등록 및 댓글 작성 기능
 
+![Image](https://github.com/user-attachments/assets/6ad5596c-5b2f-4ba9-817a-cf6ca1564eaa)
+
 5. 노래 좋아요, 음원 듣기에 따른 마이 뮤직 표시
