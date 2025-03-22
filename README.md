@@ -17,7 +17,9 @@
 
 ![Image](https://github.com/user-attachments/assets/ac4e985f-4b39-40e7-a042-64ed8f610739)
 
-2. 음원 검색 후 가수, 앨범, 노래 검색결과 표시 / 검색에 따른 인기검색어 표시
+2. 음원 검색 후 가수, 앨범, 노래 검색결과 표시 / 검색에 따른 인기검색어 표시(5초마다 1위부터 10위까지 하나씩 순위 표시)
+
+![Image](https://github.com/user-attachments/assets/c545e1f1-535a-4dcc-bf4f-366906a36c3d)
 
 3. 가수, 앨범, 노래 신규 등록 및 관리 (관리자 기능)
 
