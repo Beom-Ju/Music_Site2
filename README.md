@@ -28,3 +28,5 @@
 ![Image](https://github.com/user-attachments/assets/6ad5596c-5b2f-4ba9-817a-cf6ca1564eaa)
 
 5. 노래 좋아요, 음원 듣기에 따른 마이 뮤직 표시
+
+![Image](https://github.com/user-attachments/assets/0be068a1-8ad4-4c83-ab4b-023aad31d4fb)
