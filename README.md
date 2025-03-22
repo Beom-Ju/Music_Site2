@@ -23,6 +23,8 @@
 
 3. 가수, 앨범, 노래 신규 등록 및 관리 (관리자 기능)
 
+![Image](https://github.com/user-attachments/assets/48525a4a-98ee-4dd4-a048-17d0ff25565a)
+
 4. 앨범 평점 등록 및 댓글 작성 기능
 
 ![Image](https://github.com/user-attachments/assets/6ad5596c-5b2f-4ba9-817a-cf6ca1564eaa)
